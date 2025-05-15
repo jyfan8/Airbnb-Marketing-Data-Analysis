@@ -1,5 +1,10 @@
 # 🏠 Airbnb Marketing Analysis
 
+<p align="center">
+  <img src="https://techcrunch.com/wp-content/uploads/2014/09/airbnb-a8707ed9_original.jpg" alt="Airbnb Logo" width="400"/>
+</p>
+
+
 This repository contains an in-depth marketing and exploratory data analysis of Airbnb listings in Albany, New York. The project investigates user behavior, pricing patterns, seasonal trends, and provides actionable recommendations based on data-driven insights.
 
 ## 📊 Project Overview
